@@ -6,9 +6,8 @@ Welcome to my personal portfolio website! This repository contains the source co
 1. [About](#about)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [License](#license)
+4. [Usage](#usage)
+5. [License](#license)
 
 ---
 
